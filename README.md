@@ -31,11 +31,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 [Localization](#localization)  
 [UI Stuff](#ui-stuff)  
 [Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
-[Hosted Backends](#integration-with-other-languagesframeworks)  
 [Mobile](#mobile)  
 [Popular Third-Party Modules](#popular-third-party-modules)  
-[Test Editor Bundles](#text-editor-bundleside-stuff)  
-[Development Tools](#development-tools)  
+
 
 ## Books
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
@@ -151,13 +149,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 
 ## Integration With Other Languages/Frameworks
 
-## Hosted Backends
-
 ## Mobile
 * [Building Mobile Apps with Angular 2 and NativeScript] (http://angularjs.blogspot.com/2015/12/building-mobile-apps-with-angular-2-and.html)
 
 ## Popular Third-Party Modules
 
-## Text editor bundles/IDE Stuff
-
-## Development Tools
