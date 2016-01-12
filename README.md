@@ -41,7 +41,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------:|:--------------------:|:----------------:|:-----------:|
 | [ng-book 2](https://www.ng-book.com/2/)                                                                                           | Lerner, Coury, Murray, Taborda               | Gumroad             | v2.0  |   WIP  |
-
+| [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)                                                                                           | Yakov Fain and Anton Moiseev               | Manning             | v2.0  |   WIP  |
+| [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action)                                                                                           | David Aden, Jason Aden, and Jeremy Wilken               | Manning             | v2.0  |   WIP  |
 
 ## Videos
 * [Egghead.io](https://egghead.io/technologies/angular2/)  
