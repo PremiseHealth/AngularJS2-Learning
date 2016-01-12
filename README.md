@@ -86,6 +86,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Refactoring Angular Apps to Component Style] (http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
 * [5 Steps To Prepare Your Angular 1 Code To Angular 2] (http://orizens.com/wp/topics/5-steps-to-prepare-your-angular-1-code-to-angular-2/)
 * [3 More Steps To Prepare Your Angular 1 Code To Angular 2] (http://orizens.com/wp/topics/3-more-steps-to-prepare-your-angular-1-code-to-angular-2/)
+* [Start using Components in AngularJS 1.5.x] (http://angularjs-recipes.com/#!/posts/5612d0/use-components-into-angularjs-15-before-mastering-them-in-angular-2)
 
 ## Lessons Learned
 
