@@ -1,15 +1,7 @@
 Angular 2-Learning
 ==================
 
-A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. 
-
-Note: This repo is brand new as of 7/20/2015 and I plan to focus on it that week by looking for Angular 2 links to add. Feel free to help me flesh this out quickly :) To start off, I just copied the same list of categories from the Angular 1.x version of this repo. I'm guessing that some of the topics from Angular 1.x won't make sense in Angular 2. So if you see some top-level categories that should be removed when discussing Angular 2, please do a PR or leave a comment to explain the reason for removal.
-
-Note 2 (1/8/2016): Now that I'm back to preferring Angular (after starting a React project at work), this repo will get much more love/attention in the near future. I've been compiling Angular2 (and Angular 1 -> Angular 2) links that I will be adding here in the next few days. And I'll be more active in updating it multiple times a week like I did for my Angular 1.x repo.
-
-I also blog about Angular and JavaScript topics at [my blog] (http://www.jmcunningham.net). Things have been quiet on the blog in 2015, but have hopes to revive it in the near future. Once  I start doing some Angular 2 research at work...
-
-The version of this repo for Angular 1.x is still maintained [here] (https://github.com/jmcunningham/AngularJS-Learning)
+A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 
 ### Table of Contents
 [Books](#books)  
@@ -23,9 +15,8 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 [Boilerplates/Seed Projects](#boilerplatesseed-projects)  
 [Multipart Articles](#multipart-articles)  
 [Sample Apps](#sample-apps)  
-[Scopes & Compile](#scopes--compile)  
 [Dependency Injection](#dependency-injection)  
-[Components/Directives](#components)  
+[Components](#components)  
 [Services/Providers](#servicesproviders)  
 [Routing](#routing)  
 [Promises/Deferred](#promisesdeferred)  
@@ -60,7 +51,7 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 * [AngularJS Mailing List (Google Groups)] (http://groups.google.com/group/angular)  
 * [Chatroom (Browser-based IRC)] (http://webchat.freenode.net/?channels=angularjs&uio=d4)  
 * [AngularJS Google+ Community] (https://plus.google.com/u/0/communities/115368820700870330756)  
-* [reddit] (http://www.reddit.com/r/angularjs)  
+* [reddit] (http://www.reddit.com/r/angular2)  
 
 ## General Topics
 * [Two Phases of Angular 2 Applications] (http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)   
@@ -90,9 +81,6 @@ The version of this repo for Angular 1.x is still maintained [here] (https://git
 
 ## Sample Apps
 * [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
-
-## Scopes & Compile
-* Does this still make sense as a category for Angular2???
 
 ## Dependency Injection
 * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
