@@ -67,6 +67,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Angular 2 for AngularJS developers] (https://angularclass.com/angular-2-for-angularjs-developers/)
 * [The Beginner’s Preemptive Guide To AngularJS 2 Beta] (http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/)
 * [Angular 2: Developer Preview] (http://www.dotnetcurry.com/angularjs/1214/angular2-developer-preview-new-features)
+* [The Core Concepts of Angular 2] (http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
 
 ## Tutorial Series
 * [Creating a Super Simple Todo App Using Angular 2]   (http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial) 
