@@ -79,7 +79,15 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 ## Best Practices/Style Guides
 * [@ngrx/store Best Practices] (https://github.com/ngrx/angular2-store-example)
 
-## Angular 1 to Angular 2 Guides  
+## Angular 1 to Angular 2 Guides
+* [Adding the first Angular 2 service to your Angular 1 app] (http://www.codelord.net/2016/01/07/adding-the-first-angular-2-service-to-your-angular-1-app/)
+* [Learn How to Write Angular 2 Style Unit Tests with Angular 1.X Code] (http://blog.rangle.io/unittests/)
+* Creating Angular 2 Style Components Using Angular 1 [Part 1] (http://blog.rangle.io/angular2-components/), [Part 2] (http://blog.rangle.io/creating-angular-2-style-components-using-angular-1-part-2/)
+* [Write Your Angular 1.x Applications in an Angular 2 Style] (http://blog.rangle.io/write-angular-2-style-code-now-typescript-decorators-components-and-flux-for-angular-1-x-applications/)
+* [Seed project for developing angular 1.x applications in preparation for migrating on to Angular 2.0] (https://github.com/alamgird/angular-next-starter-kit)
+* [Refactoring Angular Apps to Component Style] (http://teropa.info/blog/2015/10/18/refactoring-angular-apps-to-components.html)
+* [5 Steps To Prepare Your Angular 1 Code To Angular 2] (http://orizens.com/wp/topics/5-steps-to-prepare-your-angular-1-code-to-angular-2/)
+* [3 More Steps To Prepare Your Angular 1 Code To Angular 2] (http://orizens.com/wp/topics/3-more-steps-to-prepare-your-angular-1-code-to-angular-2/)
 
 ## Lessons Learned
 
