@@ -96,6 +96,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Angular 2 starter pack in ES6](https://github.com/blacksonic/angular2-es6-starter)
 * [Angular 2 Starter in TypeScript with Gulp workflow](https://github.com/antonybudianto/angular2-starter)
 * [ng2Boilerplate] (https://github.com/born2net/ng2Boilerplate)
+* [Angular2 Universal Starter Kit] (https://github.com/alexpods/angular2-universal-starter)
 
 ## Multipart Articles
 
