@@ -140,6 +140,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 ## Collections  
 
 ## Testing
+* [Testing in Angular 2] (http://www.51zero.com/blog/2016/1/6/testing-in-angular2)
 
 ## RESTful Stuff
 
