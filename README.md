@@ -19,7 +19,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 [Components](#components)  
 [Services/Providers](#servicesproviders)  
 [Routing](#routing)  
-[Promises/Deferred](#promisesdeferred)    
+[Promises/Deferred/Zones](#promisesdeferredzones)    
 [Observables](#observables)  
 [Immutable/State](#immutablestate) 
 [Forms](#forms)  
@@ -40,6 +40,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 | [ng-book 2](https://www.ng-book.com/2/)                                                                                           | Lerner, Coury, Murray, Taborda               | Gumroad             | v2.0  |   WIP  |
 | [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)                                                                                           | Yakov Fain and Anton Moiseev               | Manning             | v2.0  |   WIP  |
 | [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action)                                                                                           | David Aden, Jason Aden, and Jeremy Wilken               | Manning             | v2.0  |   WIP  |
+| [Become A Ninja With Angular 2](https://books.ninja-squad.com/angular2)                                                                                           | Ninja Squad               | ?             | v2.0  |   WIP  |
 
 ## Videos
 * [Egghead.io](https://egghead.io/technologies/angular2/) 
@@ -59,6 +60,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)  
 * [Change Detection in Angular 2] (http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 * [Angular 2 in Plain JS](https://daveceddia.com/angular-2-in-plain-js/)
+* [ng-filter in Angular2 (pipes)] (http://jilles.me/ng-filter-in-angular2-pipes/)
+* [Angular 2 Errors] (https://daveceddia.com/angular-2-errors/)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -90,6 +93,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [5 Steps To Prepare Your Angular 1 Code To Angular 2] (http://orizens.com/wp/topics/5-steps-to-prepare-your-angular-1-code-to-angular-2/)
 * [3 More Steps To Prepare Your Angular 1 Code To Angular 2] (http://orizens.com/wp/topics/3-more-steps-to-prepare-your-angular-1-code-to-angular-2/)
 * [Start using Components in AngularJS 1.5.x] (http://angularjs-recipes.com/#!/posts/5612d0/use-components-into-angularjs-15-before-mastering-them-in-angular-2)
+* [Migrating A Component To Angular 2: From Angular 1.x & Es2015] (http://orizens.com/wp/topics/migrating-a-component-to-angular-2-from-angular-1-x-es2015/)
 
 ## Lessons Learned
 
@@ -122,18 +126,21 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 
 ## Routing
 
-## Promises/Deferred
+## Promises/Deferred/Zones
+* [Understanding Zones] (http://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
 
 ## Observables  
 * [Taking advantage of Observables in Angular 2] (http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)
 * [Taking advantage of Observables in Angular 2 - Part 2] (http://blog.thoughtram.io/angular/2016/01/07/taking-advantage-of-observables-in-angular2-pt2.html)
 * [Pub Sub In Angular 2.0] (http://www.syntaxsuccess.com/viewarticle/pub-sub-in-angular-2.0)
 * [Angular 2 Observable Data Services] (https://coryrylan.com/blog/angular-2-observable-data-services)
+* [Angular 2: HTTP, Observables, and concurrent data loading] (http://www.metaltoad.com/blog/angular-2-http-observables)
  
 ## Immutable/State  
 * [Angular2 with ImmutableJS] (http://blog.scottlogic.com/2016/01/05/angular2-with-immutablejs.html)
 * [Angular 2 - Introduction to Redux] (https://medium.com/google-developer-experts/angular-2-introduction-to-redux-1cf18af27e6e#.s3df1n5tn)
 * [Angular 2 Application Architecture - Building Flux Apps with Redux and Immutable.js] (http://blog.jhades.org/angular-2-application-architecture-building-flux-like-apps-using-redux-and-immutable-js-js/)
+* [Managing State in Angular 2 Applications] (http://victorsavkin.com/post/137821436516/managing-state-in-angular-2-applications)
 
 ## Forms
 * [The Ultimate Guide to Forms in Angular 2] (http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)  
@@ -158,6 +165,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 
 ## Mobile
 * [Building Mobile Apps with Angular 2 and NativeScript] (http://angularjs.blogspot.com/2015/12/building-mobile-apps-with-angular-2-and.html)
+* Build Your First Mobile App With Ionic 2 & Angular 2: [Part 1] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/), [Part 2] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-2/), [Part 3] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-3/)
 
 ## Popular Third-Party Modules
 
