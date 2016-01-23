@@ -106,8 +106,6 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Angular 2 JSPM starter] (https://github.com/samouss/angular2-jspm-starter)
 * [Angular 2 Seed Project by mgechev] (https://github.com/mgechev/angular2-seed)
 
-## Multipart Articles
-
 ## Sample Apps
 * [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
 
