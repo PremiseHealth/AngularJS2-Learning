@@ -62,6 +62,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Angular 2 in Plain JS](https://daveceddia.com/angular-2-in-plain-js/)
 * [ng-filter in Angular2 (pipes)] (http://jilles.me/ng-filter-in-angular2-pipes/)
 * [Angular 2 Errors] (https://daveceddia.com/angular-2-errors/)
+* [Angular 2 Series - Part 1: Working with Pipes] (https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -113,16 +114,20 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
 * [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
 * [Dependency Injection In Angular 2.0](http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0)
+* [Angular 2 Series - Part 2: Domain Models and Dependency Injection] (https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
 
 ## Components
 * [Angular 2 Template Syntax] (http://victorsavkin.com/post/119943127151/angular-2-template-syntax)  
 * [Creating Container Components, Part 3: Angular 2 Component Directives]   (https://www.airpair.com/angularjs/posts/creating-components-p3-angular2-directives)  
 * [Angular 2 Components for AngularJS Developers] (https://angularclass.com/angular-2-components-angularjs-developers/)
 * [How to create an Angular 2 component library, and how to consume it using SystemJs or Webpack] (http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/)
+* [ViewChildren and ContentChildren in Angular 2] (http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/)
 
 ## Services/Providers
+* [Angular 2 Series - Part 3: Using Http] (https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/)
 
 ## Routing
+* [Angular 2 Series - Part 4: Component Router In-Depth] (https://auth0.com/blog/2016/01/25/angular-2-series-part-4-component-router-in-depth/)
 
 ## Promises/Deferred/Zones
 * [Understanding Zones] (http://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
