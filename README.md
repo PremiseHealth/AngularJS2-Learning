@@ -45,6 +45,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 ## Videos
 * [Egghead.io](https://egghead.io/technologies/angular2/) 
 * [Angular 2 Quickstart Tutorials 2016] (https://www.youtube.com/playlist?list=PL55RiY5tL51olfU2IEqr455EYLkrhmh3n)
+* [Mastering Your Angular 2 Workflow] (https://www.youtube.com/watch?v=NSibZPEtm7o)
+* [RxJS and Observables with Angular 2] (https://www.youtube.com/watch?v=ZmEvKLYF0os)
 
 ## Courses
 
@@ -63,6 +65,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [ng-filter in Angular2 (pipes)] (http://jilles.me/ng-filter-in-angular2-pipes/)
 * [Angular 2 Errors] (https://daveceddia.com/angular-2-errors/)
 * [Angular 2 Series - Part 1: Working with Pipes] (https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
+* [Angular 2 Change Detection Explained] (http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
+* [What's the difference between annotations and decorators in Angular 2?] (http://nicholasjohnson.com/blog/annotations-vs-decorators/)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -97,6 +101,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Start using Components in AngularJS 1.5.x] (http://angularjs-recipes.com/#!/posts/5612d0/use-components-into-angularjs-15-before-mastering-them-in-angular-2)
 * [Migrating A Component To Angular 2: From Angular 1.x & Es2015] (http://orizens.com/wp/topics/migrating-a-component-to-angular-2-from-angular-1-x-es2015/)
 * [Preparing Your Angular 1 Code For Angular 2 (Part 1)] (http://mcculloughwebservices.com/2016/01/25/preparing-your-angular-1-code-for-angular-2-part-1/)
+* [Stateless Angular components] (https://toddmotto.com/stateless-angular-components/)
+* [Angular 2 migration: what's ng-forward?] (http://www.codelord.net/2016/02/03/angular-2-migration-whats-ng-forward/)
 
 ## Lessons Learned
 
@@ -131,6 +137,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 
 ## Routing
 * [Angular 2 Series - Part 4: Component Router In-Depth] (https://auth0.com/blog/2016/01/25/angular-2-series-part-4-component-router-in-depth/)
+* [Explore Angular 2 Router] (http://jslancer.com/2016/02/22/explore-angular-2-router/)
 
 ## Promises/Deferred/Zones
 * [Understanding Zones] (http://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
@@ -141,6 +148,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Pub Sub In Angular 2.0] (http://www.syntaxsuccess.com/viewarticle/pub-sub-in-angular-2.0)
 * [Angular 2 Observable Data Services] (https://coryrylan.com/blog/angular-2-observable-data-services)
 * [Angular 2: HTTP, Observables, and concurrent data loading] (http://www.metaltoad.com/blog/angular-2-http-observables)
+* [Canceling RxJS Observables With ngOnDestroy In Angular 2 Beta 6] (http://www.bennadel.com/blog/3030-canceling-rxjs-observables-with-ngondestroy-in-angular-2-beta-6.htm)
  
 ## Immutable/State  
 * [Angular2 with ImmutableJS] (http://blog.scottlogic.com/2016/01/05/angular2-with-immutablejs.html)
@@ -167,6 +175,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 
 ## UI Stuff
 * [Angular2 & Semantic UI] (https://github.com/vladotesanovic/ngSemantic)
+* [Pagination Component for Angular 2] (https://github.com/michaelbromley/ng2-pagination)
+* [JWT library for Angular 2] (https://github.com/auth0/angular2-jwt)
+* [Google Maps Component for Angular 2] (https://github.com/SebastianM/angular2-google-maps)
 
 ## Integration With Other Languages/Frameworks
 
