@@ -1,7 +1,7 @@
 Angular 2-Learning
 ==================
 
-A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
+A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. Also contains links for articles that ease migrating from Angular 1.5 to Angular 2.
 
 ### Table of Contents
 [Books](#books)  
@@ -47,6 +47,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Angular 2 Quickstart Tutorials 2016] (https://www.youtube.com/playlist?list=PL55RiY5tL51olfU2IEqr455EYLkrhmh3n)
 * [Mastering Your Angular 2 Workflow] (https://www.youtube.com/watch?v=NSibZPEtm7o)
 * [RxJS and Observables with Angular 2] (https://www.youtube.com/watch?v=ZmEvKLYF0os)
+* [Start Ahead Your Projects With Angular 2 Webpack Starter] (https://www.youtube.com/watch?v=9N0L_ZTD_Y0)
 
 ## Courses
 
@@ -58,8 +59,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [reddit] (http://www.reddit.com/r/angular2)  
 
 ## General Topics
-* [Two Phases of Angular 2 Applications] (http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)   
-* [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)  
+* [Two Phases of Angular 2 Applications] (http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications) * [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)  
 * [Change Detection in Angular 2] (http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
 * [Angular 2 in Plain JS](https://daveceddia.com/angular-2-in-plain-js/)
 * [ng-filter in Angular2 (pipes)] (http://jilles.me/ng-filter-in-angular2-pipes/)
@@ -67,6 +67,10 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Angular 2 Series - Part 1: Working with Pipes] (https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
 * [Angular 2 Change Detection Explained] (http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
 * [What's the difference between annotations and decorators in Angular 2?] (http://nicholasjohnson.com/blog/annotations-vs-decorators/)
+* [Emulated or Native Shadow DOM in Angular 2 with ViewEncapsulation] (https://toddmotto.com/emulated-native-shadow-dom-angular-2-view-encapsulation)
+* [Angular 2 — An introduction of bootstrap and providers] (https://medium.com/@menezes.carlos/angular-2-an-introduction-of-bootstrap-and-providers-1c60ffbb7604#.mp1mo1pqw)
+* [Bootstrapping your first Angular 2 application] (https://toddmotto.com/bootstrap-angular-2-hello-world)
+* [Static Code Analysis of Angular 2 and TypeScript Projects] (http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -103,6 +107,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [Preparing Your Angular 1 Code For Angular 2 (Part 1)] (http://mcculloughwebservices.com/2016/01/25/preparing-your-angular-1-code-for-angular-2-part-1/)
 * [Stateless Angular components] (https://toddmotto.com/stateless-angular-components/)
 * [Angular 2 migration: what's ng-forward?] (http://www.codelord.net/2016/02/03/angular-2-migration-whats-ng-forward/)
+* [This guide describes the new Component Router for AngularJS 1.5] (https://docs.angularjs.org/guide/component-router)
 
 ## Lessons Learned
 
@@ -131,6 +136,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2.
 * [How to create an Angular 2 component library, and how to consume it using SystemJs or Webpack] (http://blog.jhades.org/how-to-create-an-angular-2-library-and-how-to-consume-it-jspm-vs-webpack/)
 * [ViewChildren and ContentChildren in Angular 2] (http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/)
 * [Developing a tabs component in Angular 2] (http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+* [Angular 2 – Communication Between Components & Components Design] (http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
 
 ## Services/Providers
 * [Angular 2 Series - Part 3: Using Http] (https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/)
