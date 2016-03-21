@@ -137,6 +137,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [ViewChildren and ContentChildren in Angular 2] (http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-difference-viewproviders/)
 * [Developing a tabs component in Angular 2] (http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
 * [Angular 2 – Communication Between Components & Components Design] (http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
+* [Passing data into Angular 2 Components with "Input"] (https://toddmotto.com/passing-data-angular-2-components-input)
+* [Component events with EventEmitter and "Output" in Angular 2] (https://toddmotto.com/component-events-event-emitter-output-angular-2)
 
 ## Services/Providers
 * [Angular 2 Series - Part 3: Using Http] (https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/)
@@ -165,6 +167,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 ## Forms
 * [The Ultimate Guide to Forms in Angular 2] (http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)  
 * [Angular 2 Form Validation] (https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.gkx0akr3u)
+* [Template-driven Forms in Angular 2] (http://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.html)
 
 ## Authentication
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
@@ -186,6 +189,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Google Maps Component for Angular 2] (https://github.com/SebastianM/angular2-google-maps)
 
 ## Integration With Other Languages/Frameworks
+* Integrating Angular2 with SignalR: [Part 1] (https://blog.sstorie.com/integrating-angular2-and-signalr-part-1/), [Part 2] (https://blog.sstorie.com/integrating-angular-2-and-signalr-part-2-of-2/)
 
 ## Mobile
 * [Building Mobile Apps with Angular 2 and NativeScript] (http://angularjs.blogspot.com/2015/12/building-mobile-apps-with-angular-2-and.html)
