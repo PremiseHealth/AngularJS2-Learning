@@ -41,6 +41,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 | [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)                                                                                           | Yakov Fain and Anton Moiseev               | Manning             | v2.0  |   WIP  |
 | [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action)                                                                                           | David Aden, Jason Aden, and Jeremy Wilken               | Manning             | v2.0  |   WIP  |
 | [Become A Ninja With Angular 2](https://books.ninja-squad.com/angular2)                                                                                           | Ninja Squad               | ?             | v2.0  |   WIP  |
+| [Testing Angular 2 Applications](https://www.manning.com/books/testing-angular-2-applications)                                                                                           | Manning               | Jesse Palmer             | v2.0  |   WIP  |
+| [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2)                                                                                           | Packt               | Minko Gechev             | v2.0  |   March 2016  |
 
 ## Videos
 * [Egghead.io](https://egghead.io/technologies/angular2/) 
