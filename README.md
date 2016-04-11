@@ -73,6 +73,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Angular 2 — An introduction of bootstrap and providers] (https://medium.com/@menezes.carlos/angular-2-an-introduction-of-bootstrap-and-providers-1c60ffbb7604#.mp1mo1pqw)
 * [Bootstrapping your first Angular 2 application] (https://toddmotto.com/bootstrap-angular-2-hello-world)
 * [Static Code Analysis of Angular 2 and TypeScript Projects] (http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript)
+* [Scalable Single-Page Application Architecture with Angular 2] (http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
+* [Fine grained change detection with Angular 2] (http://juristr.com/blog/2016/04/angular2-change-detection/)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
