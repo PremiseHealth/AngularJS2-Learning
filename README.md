@@ -50,6 +50,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Mastering Your Angular 2 Workflow] (https://www.youtube.com/watch?v=NSibZPEtm7o)
 * [RxJS and Observables with Angular 2] (https://www.youtube.com/watch?v=ZmEvKLYF0os)
 * [Start Ahead Your Projects With Angular 2 Webpack Starter] (https://www.youtube.com/watch?v=9N0L_ZTD_Y0)
+* [Dependency Injection in Angular 2 by Pascal Precht] (https://www.youtube.com/watch?v=ZefFBqBncOM)
 
 ## Courses
 
@@ -75,6 +76,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Static Code Analysis of Angular 2 and TypeScript Projects] (http://blog.mgechev.com/2016/02/29/static-code-analysis-angular-typescript)
 * [Scalable Single-Page Application Architecture with Angular 2] (http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/)
 * [Fine grained change detection with Angular 2] (http://juristr.com/blog/2016/04/angular2-change-detection/)
+* [Broadcasting events in Angular 2] (http://blog.lacolaco.net/post/event-broadcasting-in-angular-2/)
+* [Hacking Angular2: Binding Multiple DOM Events] (https://medium.com/@TheLarkInn/hacking-angular2-binding-multiple-dom-events-f781b14ef676#.oi1rgtuqx)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -85,6 +88,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [The Beginner’s Preemptive Guide To AngularJS 2 Beta] (http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/)
 * [Angular 2: Developer Preview] (http://www.dotnetcurry.com/angularjs/1214/angular2-developer-preview-new-features)
 * [The Core Concepts of Angular 2] (http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
+* [Angular 2 and TypeScript - A High Level Overview] (http://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview)
+* [5 Rookie Mistakes to Avoid with Angular 2] (http://angularjs.blogspot.de/2016/04/5-rookie-mistakes-to-avoid-with-angular.html)
 
 ## Tutorial Series
 * [Creating a Super Simple Todo App Using Angular 2]   (http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial) 
