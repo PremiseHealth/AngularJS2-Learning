@@ -4,6 +4,7 @@ Angular 2-Learning
 A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. Also contains links for articles that ease migrating from Angular 1.5 to Angular 2.
 
 ### Table of Contents
+[Official Sites](#official-sites)  
 [Books](#books)  
 [Videos](#videos)  
 [Courses](#courses)   
@@ -33,6 +34,12 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 [Mobile](#mobile)  
 [Popular Third-Party Modules](#popular-third-party-modules)  
 
+## Official Sites
+* [Angular 2 Home](https://angular.io/)
+* [Angular 2 Mobile] (https://mobile.angular.io/)
+* [Angular 2 Cli] (https://cli.angular.io/)
+* [Official Angular 2 Style Guide] (https://angular.io/styleguide)
+* [Angular 2 Universal] (https://universal.angular.io/)
 
 ## Books
 | Title                                                                                                                                                   |                  Author                  |       Publisher      |    ng Version    | Last Update |
@@ -51,6 +58,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [RxJS and Observables with Angular 2] (https://www.youtube.com/watch?v=ZmEvKLYF0os)
 * [Start Ahead Your Projects With Angular 2 Webpack Starter] (https://www.youtube.com/watch?v=9N0L_ZTD_Y0)
 * [Dependency Injection in Angular 2 by Pascal Precht] (https://www.youtube.com/watch?v=ZefFBqBncOM)
+* [Complete List of NG Conf 2016 Videos] (https://www.youtube.com/user/ngconfvideos)
 
 ## Courses
 
@@ -78,6 +86,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Fine grained change detection with Angular 2] (http://juristr.com/blog/2016/04/angular2-change-detection/)
 * [Broadcasting events in Angular 2] (http://blog.lacolaco.net/post/event-broadcasting-in-angular-2/)
 * [Hacking Angular2: Binding Multiple DOM Events] (https://medium.com/@TheLarkInn/hacking-angular2-binding-multiple-dom-events-f781b14ef676#.oi1rgtuqx)
+* [Server Side Rendering In Angular 2.0] (http://www.syntaxsuccess.com/viewarticle/server-side-rendering-in-angular-2.0)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -96,6 +105,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Building a ToDo List Application with Angular 2] (http://blog.scottlogic.com/2015/12/07/angular-2.html)
 * [Creating a Angular2 Build with Gulp, TSLint, and DefinitelyTyped] (http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html)
 * [Get Started with Angular 2 by Building a Simple Website] (http://onehungrymind.com/build-a-simple-website-with-angular-2/)
+* [Build Your Own Chrome Extension Using Angular 2 & TypeScript] (https://www.devbattles.com/en/sand/post-3072-Build_Your_Own_Chrome_Extension_Using_Angular_2__TypeScript)
 
 ## Best Practices/Style Guides
 * [@ngrx/store Best Practices] (https://github.com/ngrx/angular2-store-example)
@@ -128,6 +138,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Angular2 Universal Starter Kit] (https://github.com/alexpods/angular2-universal-starter)
 * [Angular 2 JSPM starter] (https://github.com/samouss/angular2-jspm-starter)
 * [Angular 2 Seed Project by mgechev] (https://github.com/mgechev/angular2-seed)
+* [Angular 2 Webpack Universal Starter] (https://gitlab.com/Spittal/lunchrocket-frontend/tree/feature/universal)
 
 ## Sample Apps
 * [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
@@ -151,6 +162,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 
 ## Services/Providers
 * [Angular 2 Series - Part 3: Using Http] (https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/)
+* [Angular 2 Providers Using Map Literals] (http://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html)
 
 ## Routing
 * [Angular 2 Series - Part 4: Component Router In-Depth] (https://auth0.com/blog/2016/01/25/angular-2-series-part-4-component-router-in-depth/)
