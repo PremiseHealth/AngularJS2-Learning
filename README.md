@@ -29,7 +29,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 [Localization](#localization)  
 [UI Stuff](#ui-stuff)  
 [Ionic 2](#ionic-2)  
-[NativeScript](#nativescript)
+[NativeScript](#nativescript)  
 [Popular Third-Party Modules](#popular-third-party-modules)  
 
 ## Official Sites
