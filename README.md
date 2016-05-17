@@ -25,13 +25,11 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 [Immutable/State](#immutablestate) 
 [Forms](#forms)  
 [Authentication](#authentication)  
-[Collections](#collections--ngrepeat-stuff)  
 [Testing](#testing)  
-[RESTful Stuff](#restful-stuff)  
 [Localization](#localization)  
 [UI Stuff](#ui-stuff)  
-[Integration with Other Languages/Frameworks](#integration-with-other-languagesframeworks)  
-[Mobile](#mobile)  
+[Ionic 2](#ionic-2)  
+[NativeScript](#nativescript)
 [Popular Third-Party Modules](#popular-third-party-modules)  
 
 ## Official Sites
@@ -193,13 +191,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 ## Authentication
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
 
-## Collections  
-
 ## Testing
 * [Testing in Angular 2] (http://www.51zero.com/blog/2016/1/6/testing-in-angular2)
 * Testing Angular 2 Apps: [Part 1: The Beginning](https://developers.livechatinc.com/blog/testing-angular-2-apps-part-1-beginning/), [Part 2: Dependency Injection & Components](https://developers.livechatinc.com/blog/testing-angular-2-apps-dependency-injection-and-components/)
-
-## RESTful Stuff
 
 ## Localization
 
@@ -209,12 +203,11 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [JWT library for Angular 2] (https://github.com/auth0/angular2-jwt)
 * [Google Maps Component for Angular 2] (https://github.com/SebastianM/angular2-google-maps)
 
-## Integration With Other Languages/Frameworks
-* Integrating Angular2 with SignalR: [Part 1] (https://blog.sstorie.com/integrating-angular2-and-signalr-part-1/), [Part 2] (https://blog.sstorie.com/integrating-angular-2-and-signalr-part-2-of-2/)
-
-## Mobile
-* [Building Mobile Apps with Angular 2 and NativeScript] (http://angularjs.blogspot.com/2015/12/building-mobile-apps-with-angular-2-and.html)
+## Ionic 2
 * Build Your First Mobile App With Ionic 2 & Angular 2: [Part 1] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/), [Part 2] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-2/), [Part 3] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-3/), [Part 4] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-4/)
+
+## Nativescript
+* [Build A Simple Mobile App With NativeScript And Angular 2] (https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2)
 
 ## Popular Third-Party Modules
 
