@@ -21,7 +21,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 [Services/Providers](#servicesproviders)  
 [Routing](#routing)  
 [Promises/Deferred/Zones](#promisesdeferredzones)    
-[Observables](#observables)  
+[Observables/Streams](#observablesstreams)  
 [Immutable/State](#immutablestate) 
 [Forms](#forms)  
 [Authentication](#authentication)  
@@ -57,6 +57,8 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Start Ahead Your Projects With Angular 2 Webpack Starter] (https://www.youtube.com/watch?v=9N0L_ZTD_Y0)
 * [Dependency Injection in Angular 2 by Pascal Precht] (https://www.youtube.com/watch?v=ZefFBqBncOM)
 * [Complete List of NG Conf 2016 Videos] (https://www.youtube.com/user/ngconfvideos)
+* [Angular Academy Video Series] (https://www.youtube.com/watch?v=pCE0A3ZkIhA&list=PLOa5YIicjJ-WDC7tEgD_krKalYWVnixXE)
+* [Angular 2 With John Papa](https://www.youtube.com/watch?v=W_mUCydxpAM)
 
 ## Courses
 
@@ -85,6 +87,9 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Broadcasting events in Angular 2] (http://blog.lacolaco.net/post/event-broadcasting-in-angular-2/)
 * [Hacking Angular2: Binding Multiple DOM Events] (https://medium.com/@TheLarkInn/hacking-angular2-binding-multiple-dom-events-f781b14ef676#.oi1rgtuqx)
 * [Server Side Rendering In Angular 2.0] (http://www.syntaxsuccess.com/viewarticle/server-side-rendering-in-angular-2.0)
+* [Electron all the Angular 2 Things] (http://onehungrymind.com/electron-angular-2-things/)
+* [Things that Excite Me about Angular 2] (http://teropa.info/blog/2016/05/19/things-that-excite-me-about-angular-2.html)
+* [Use the Angular CLI For Faster Angular 2 Projects] (https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -169,13 +174,13 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 ## Promises/Deferred/Zones
 * [Understanding Zones] (http://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
 
-## Observables  
+## Observables/Streams  
 * [Taking advantage of Observables in Angular 2] (http://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html)
 * [Taking advantage of Observables in Angular 2 - Part 2] (http://blog.thoughtram.io/angular/2016/01/07/taking-advantage-of-observables-in-angular2-pt2.html)
 * [Pub Sub In Angular 2.0] (http://www.syntaxsuccess.com/viewarticle/pub-sub-in-angular-2.0)
 * [Angular 2 Observable Data Services] (https://coryrylan.com/blog/angular-2-observable-data-services)
 * [Angular 2: HTTP, Observables, and concurrent data loading] (http://www.metaltoad.com/blog/angular-2-http-observables)
-* [Canceling RxJS Observables With ngOnDestroy In Angular 2 Beta 6] (http://www.bennadel.com/blog/3030-canceling-rxjs-observables-with-ngondestroy-in-angular-2-beta-6.htm)
+* [Angular2 is getting into the whole Redux thing with ngrx/store and ng-redux](http://chariotsolutions.com/blog/post/angular2-redux/)
  
 ## Immutable/State  
 * [Angular2 with ImmutableJS] (http://blog.scottlogic.com/2016/01/05/angular2-with-immutablejs.html)
@@ -194,6 +199,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 ## Testing
 * [Testing in Angular 2] (http://www.51zero.com/blog/2016/1/6/testing-in-angular2)
 * Testing Angular 2 Apps: [Part 1: The Beginning](https://developers.livechatinc.com/blog/testing-angular-2-apps-part-1-beginning/), [Part 2: Dependency Injection & Components](https://developers.livechatinc.com/blog/testing-angular-2-apps-dependency-injection-and-components/)
+* [A Test-Driven Development Introduction to Angular 2](http://www.codeproject.com/Articles/1100567/A-Test-Driven-Development-Introduction-to-Angular)
 
 ## Localization
 
