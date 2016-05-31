@@ -90,6 +90,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Electron all the Angular 2 Things] (http://onehungrymind.com/electron-angular-2-things/)
 * [Things that Excite Me about Angular 2] (http://teropa.info/blog/2016/05/19/things-that-excite-me-about-angular-2.html)
 * [Use the Angular CLI For Faster Angular 2 Projects] (https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects)
+* [Angular 2 Bundling With Rollup](https://medium.com/@jonnysamps/angular-2-bundling-with-rollup-4738d0148a2c#.al7t68auv)
 
 ## Introductions/Beginning Angular2
 * [A deep dive into Angular 2.0](https://www.opencredo.com/2015/07/08/a-deep-dive-into-angular-2-0/)  
@@ -142,6 +143,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Angular 2 JSPM starter] (https://github.com/samouss/angular2-jspm-starter)
 * [Angular 2 Seed Project by mgechev] (https://github.com/mgechev/angular2-seed)
 * [Angular 2 Webpack Universal Starter] (https://gitlab.com/Spittal/lunchrocket-frontend/tree/feature/universal)
+* [Bare-Bones Angular 2 & Webpack Configuration] (https://github.com/gonzofish/ng2-webpack-bare)
 
 ## Sample Apps
 * [Angular 2 TodoMVC in ES6](https://github.com/blacksonic/angular2-es6-todomvc)
@@ -192,6 +194,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [The Ultimate Guide to Forms in Angular 2] (http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/)  
 * [Angular 2 Form Validation] (https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.gkx0akr3u)
 * [Template-driven Forms in Angular 2] (http://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.html)
+* [Dynamic Forms in Angular 2](http://playcode.org/dynamic-forms-in-angular-2/)
 
 ## Authentication
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
