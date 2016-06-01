@@ -216,7 +216,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * Build Your First Mobile App With Ionic 2 & Angular 2: [Part 1] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2/), [Part 2] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-2/), [Part 3] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-3/), [Part 4] (http://gonehybrid.com/build-your-first-mobile-app-with-ionic-2-angular-2-part-4/)
 
 ## Nativescript
-* [Build A Simple Mobile App With NativeScript And Angular 2] (https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2)
+* [Build A Simple Mobile App With NativeScript And Angular 2] (https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2), [Video] (https://www.youtube.com/watch?v=n0RZbTGf6uQ)
 
 ## Popular Third-Party Modules
 
