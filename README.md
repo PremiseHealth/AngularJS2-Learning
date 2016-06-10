@@ -164,14 +164,14 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS 2. 
 * [Angular 2 – Communication Between Components & Components Design] (http://orizens.com/wp/topics/angular-2-communication-between-components-components-design/)
 * [Passing data into Angular 2 Components with "Input"] (https://toddmotto.com/passing-data-angular-2-components-input)
 * [Component events with EventEmitter and "Output" in Angular 2] (https://toddmotto.com/component-events-event-emitter-output-angular-2)
+* [Component Relative Paths in Angular 2] (http://blog.thoughtram.io/angular/2016/06/08/component-relative-paths-in-angular-2.html)
 
 ## Services/Providers
 * [Angular 2 Series - Part 3: Using Http] (https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/)
 * [Angular 2 Providers Using Map Literals] (http://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html)
 
 ## Routing
-* [Angular 2 Series - Part 4: Component Router In-Depth] (https://auth0.com/blog/2016/01/25/angular-2-series-part-4-component-router-in-depth/)
-* [Explore Angular 2 Router] (http://jslancer.com/2016/02/22/explore-angular-2-router/)
+* [Angular Router] (http://victorsavkin.com/post/145672529346/angular-router)
 
 ## Promises/Deferred/Zones
 * [Understanding Zones] (http://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
